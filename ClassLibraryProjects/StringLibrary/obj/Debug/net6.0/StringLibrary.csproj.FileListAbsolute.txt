@@ -1,0 +1,12 @@
+/Users/kamsi/Documents/School2_new/6th semester/COMP367-DEVELOPS/new-final-devOp-lab4/ClassLibraryProjects/StringLibrary/bin/Debug/net6.0/StringLibrary.deps.json
+/Users/kamsi/Documents/School2_new/6th semester/COMP367-DEVELOPS/new-final-devOp-lab4/ClassLibraryProjects/StringLibrary/bin/Debug/net6.0/StringLibrary.dll
+/Users/kamsi/Documents/School2_new/6th semester/COMP367-DEVELOPS/new-final-devOp-lab4/ClassLibraryProjects/StringLibrary/bin/Debug/net6.0/StringLibrary.pdb
+/Users/kamsi/Documents/School2_new/6th semester/COMP367-DEVELOPS/new-final-devOp-lab4/ClassLibraryProjects/StringLibrary/obj/Debug/net6.0/StringLibrary.csproj.AssemblyReference.cache
+/Users/kamsi/Documents/School2_new/6th semester/COMP367-DEVELOPS/new-final-devOp-lab4/ClassLibraryProjects/StringLibrary/obj/Debug/net6.0/StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kamsi/Documents/School2_new/6th semester/COMP367-DEVELOPS/new-final-devOp-lab4/ClassLibraryProjects/StringLibrary/obj/Debug/net6.0/StringLibrary.AssemblyInfoInputs.cache
+/Users/kamsi/Documents/School2_new/6th semester/COMP367-DEVELOPS/new-final-devOp-lab4/ClassLibraryProjects/StringLibrary/obj/Debug/net6.0/StringLibrary.AssemblyInfo.cs
+/Users/kamsi/Documents/School2_new/6th semester/COMP367-DEVELOPS/new-final-devOp-lab4/ClassLibraryProjects/StringLibrary/obj/Debug/net6.0/StringLibrary.csproj.CoreCompileInputs.cache
+/Users/kamsi/Documents/School2_new/6th semester/COMP367-DEVELOPS/new-final-devOp-lab4/ClassLibraryProjects/StringLibrary/obj/Debug/net6.0/StringLibrary.dll
+/Users/kamsi/Documents/School2_new/6th semester/COMP367-DEVELOPS/new-final-devOp-lab4/ClassLibraryProjects/StringLibrary/obj/Debug/net6.0/refint/StringLibrary.dll
+/Users/kamsi/Documents/School2_new/6th semester/COMP367-DEVELOPS/new-final-devOp-lab4/ClassLibraryProjects/StringLibrary/obj/Debug/net6.0/StringLibrary.pdb
+/Users/kamsi/Documents/School2_new/6th semester/COMP367-DEVELOPS/new-final-devOp-lab4/ClassLibraryProjects/StringLibrary/obj/Debug/net6.0/ref/StringLibrary.dll
