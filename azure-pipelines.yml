@@ -40,7 +40,7 @@ steps:
     versioningScheme: 'byPrereleaseNumber'
     includeSymbols: true
     includeSource: true
-    buildProperties: 'Configuration=Release'
+    buildProperties: '$(buildConfiguration)'
 - task: NuGetAuthenticate@0
 - task: NuGetCommand@2
   inputs:
